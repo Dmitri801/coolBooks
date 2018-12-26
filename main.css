@@ -1,0 +1,26 @@
+header {
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 5em !important;
+}
+
+.book-icon svg {
+  fill: #446f9c !important;
+}
+
+.close-btn {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+td:last-child {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
