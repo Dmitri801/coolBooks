@@ -1,6 +1,6 @@
 # coolBooks - Object Oriented Javascript
 
-### coolBooks is a bookshelf app that uses vanilla javascript and Object Oriented Programming concepts. No additional libraries.
+### coolBooks is a bookshelf app that uses vanilla Javascript and Object Oriented Programming concepts. No additional libraries.
 
 ## Getting Started
 
